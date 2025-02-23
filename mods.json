@@ -1,20 +1,20 @@
 [
   {
-    "name": "ExampleMod1.dll",
+    "name": "MyMod1.dll",
     "url": "https://github.com/PaintbrawlGT/sometxts/archive/refs/tags/txt.zip",
-    "fileSize": "10 MB",
-    "trusted": true,
+    "fileSize": "1 MB",
+    "trusted": "true"
   },
   {
-    "name": "trusted.dll",
+    "name": "MyMod2.dll",
     "url": "https://github.com/PaintbrawlGT/sometxts/archive/refs/tags/txt.zip",
     "fileSize": "2 MB",
-    "trusted": false,
+    "trusted": "false"
   },
-    {
-    "name": "Trusted5mb.dll",
+  {
+    "name": "AnotherMod.dll",
     "url": "https://github.com/PaintbrawlGT/sometxts/archive/refs/tags/txt.zip",
-    "fileSize": "5 MB",
-    "trusted": true,
+    "fileSize": "500 KB",
+    "trusted": "true"
   }
 ]
